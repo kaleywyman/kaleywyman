@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-
 ## Introduction
 Hello there! 👋 I'm Kaley Wyman, a dedicated student at North Central Texas College, passionate about technology and software development. I want to enhance my learning experience and contribute to exciting projects.
 
@@ -36,5 +33,3 @@ Let's connect! Feel free to reach out:
 I'm grateful for the opportunity to be a part of the GitHub community and excited about the possibilities. Looking forward to contributing, learning, and growing in the world of software development!
 
 Happy coding! 🚀
-
--->
